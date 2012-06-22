@@ -5,7 +5,7 @@ main()
  unsigned char	p;
  unsigned int	t;
 
- p=10;
+ p=0;
 
  for (;;)
  {

@@ -1,0 +1,17 @@
+#.gitignore
+*.[oa]
+*~
+*.bat
+*.hex
+*.obj
+*.lst
+*.__i
+*.m51
+*.bak
+*.lnp
+*.plg
+*.uvgui.*
+*.uvopt
+Output/
+*.bin
+*.

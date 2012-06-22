@@ -1,3 +1,5 @@
+/* This is a simple example of running LEDs */
+
 #include <STC89.H>
 
 main()

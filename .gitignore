@@ -11,7 +11,7 @@
 *.lnp
 *.plg
 *.uvgui.*
-*.uvopt
+#*.uvopt
 Output/
 *.bin
 *.

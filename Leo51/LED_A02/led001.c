@@ -2,7 +2,7 @@
 
 void main(void)
 {
-	unsigned char t;
+	unsigned int t;
 
 	P0=0x7e;
 	for(t=0; t<3000; t++);

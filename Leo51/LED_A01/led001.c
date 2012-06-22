@@ -1,4 +1,4 @@
-#include <REGX51.H>
+#include <STC89.H>
 
 main()
 {
